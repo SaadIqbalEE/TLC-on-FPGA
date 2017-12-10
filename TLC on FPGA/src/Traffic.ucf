@@ -1,0 +1,20 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = AH15;
+NET "reset" LOC = AJ6;
+NET "sensor_north" LOC = U8;
+NET "sensor_south" LOC = V8;
+
+NET "East_LEDs[0]" LOC = H18;
+NET "East_LEDs[1]" LOC = L18;
+NET "East_LEDs[2]" LOC = G15;
+NET "North_LEDs[0]" LOC = AF13;
+NET "North_LEDs[1]" LOC = AG23;
+NET "North_LEDs[2]" LOC = AG12;
+NET "South_LEDs[0]" LOC = AD26;
+NET "South_LEDs[1]" LOC = G16;
+NET "South_LEDs[2]" LOC = AD25;
+NET "West_LEDs[0]" LOC = AD24;
+NET "West_LEDs[1]" LOC = AE24;
+NET "West_LEDs[2]" LOC = AF23;
